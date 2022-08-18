@@ -1,0 +1,26 @@
+body{
+    background-color: #F7ECDE;
+}
+.id-card{
+    text-align: centre;
+    padding:200px 0 0 300px;
+}
+h5 {
+    color: #A2B5BB;
+    margin: 1px;
+}
+p{
+    color: #A2B5BB;
+    opacity: 80%;
+}
+h3{
+    color: green;
+}
+span{
+    position: relative;
+    bottom:7px;
+    font-size: 12px;
+    margin: 4%;
+    text-decoration: line-through;
+    color:#A2B5BB;
+}
